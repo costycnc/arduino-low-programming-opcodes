@@ -156,3 +156,5 @@ https://drive.google.com/open?id=0BzDuTPB5XlKOalVhMkI2VkQzWUE
 http://www.atmel.com/images/doc1022.pdf
 
 http://www.alberti-porro.gov.it/wordpress/wp-content/uploads/2014/01/ProgrammareArduino.pdf
+
+http://blog.zakkemble.net/avr-gcc-builds/
